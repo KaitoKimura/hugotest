@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>10歳から始めるスマホプログラミング！</title>
+    <link>https://KaitoKimura.github.io/hugotest/</link>
+    <description>Recent content on 10歳から始めるスマホプログラミング！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    
+	<atom:link href="https://KaitoKimura.github.io/hugotest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
